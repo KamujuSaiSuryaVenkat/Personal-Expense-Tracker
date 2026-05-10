@@ -1,11 +1,6 @@
----
-
 # 🌦 WeatherShield
 
 An enterprise-grade weather intelligence and risk monitoring platform built using Python, Streamlit, Plotly, Pandas, and OpenWeather API.
-
-Project Developer: KAMUJU SAI SURYA VENKAT
-
 This platform delivers:
 
 * 🌍 Real-time weather monitoring
@@ -15,8 +10,6 @@ This platform delivers:
 * 💬 AI weather assistant
 * 🌡 Multi-city live monitoring
 * 📊 Interactive premium dashboards
-
----
 
 # 🚀 Live Features
 
