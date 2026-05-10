@@ -1,12 +1,3 @@
-```
-  ██╗  ██╗ █████╗ ███╗   ███╗██╗   ██╗██╗  ██╗██╗   ██╗    ███████╗ █████╗  █████╗ ██╗     ███████╗██╗   ██╗██████╗ ██╗   ██╗ █████╗     ██╗   ██╗███████╗███╗   ██╗██╗  ██╗ █████╗ ████╗
-  ██║ ██╔╝██╔══██╗████╗ ████║██║   ██║██║  ██║██║   ██║    ██╔════╝██╔══██╗██╔══██╗██║     ██╔════╝██║   ██║██╔══██╗╚██╗ ██╔╝██╔══██╗    ██║   ██║██╔════╝████╗  ██║██║ ██╔╝██╔══██╗██╔██╗
-  █████╔╝ ███████║██╔████╔██║██║   ██║███████║██║   ██║    ███████╗███████║███████║██║     ███████╗██║   ██║██████╔╝ ╚████╔╝ ███████║    ██║   ██║█████╗  ██╔██╗ ██║█████╔╝ ███████║██║██╗
-  ██╔═██╗ ██╔══██║██║╚██╔╝██║██║   ██║╚════██║██║   ██║    ╚════██║██╔══██║██╔══██║██║     ╚════██║██║   ██║██╔══██╗  ╚██╔╝  ██╔══██║    ╚██╗ ██╔╝███████╗██║╚██╗██║██╔═██╗ ██╔══██║██║╚██╗
-  ██║  ██╗██║  ██║██║ ╚═╝ ██║╚██████╔╝███████║╚██████╔╝    ███████║██║  ██║██║  ██║███████╗███████║╚██████╔╝██║  ██║   ██║   ██║  ██║     ╚████╔╝ ╚══════╝██║ ╚████║██║  ██╗██║  ██║██║ ╚██╗
-  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝      ╚═══╝  ╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
 ---
 
 # 🌦 WeatherShield
@@ -236,98 +227,6 @@ The platform includes:
 * Enterprise SaaS-style design
 * Real-time updates
 
----
-
-# 📸 Platform Preview
-
-The dashboard contains:
-
-✅ Global monitoring system
-✅ AI-powered analytics
-✅ Forecast intelligence
-✅ Weather risk monitoring
-✅ Smart climate visualization
-✅ Multi-city tracking
-
----
-# 📸 Project Preview
-
----
-
-## 🌍 Main Dashboard UI
-
-![Dashboard UI](outputs/charts/ui.png)
-
----
-
-## 📊 Temperature Analytics
-
-![Temperature Analytics](outputs/charts/temperature_chart.png)
-
----
-
-## 💧 Humidity Intelligence
-
-![Humidity Intelligence](outputs/charts/humidity_chart.png)
-
----
-
-## ⚠ Risk Distribution System
-
-![Risk Distribution](outputs/charts/risk_distribution.png)
-
----
-
-## 🤖 AI Weather Assistant
-
-![AI Assistant](outputs/charts/ai_assistant.png)
-
----
-
-## 🌦 Forecast Analytics
-
-![Forecast](outputs/charts/forcast.png)
-
----
-
-## 📈 Forecast Table
-
-![Forecast Table](outputs/charts/forcast_table.png)
-
----
-
-## 🌍 Monitoring Center
-
-![Monitoring 1](outputs/charts/monitering_part_1.png)
-
-![Monitoring 2](outputs/charts/monitering_part_2.png)
-
----
-
-## ⚠ Risk Intelligence Dashboard
-
-![Risk Intelligence](outputs/charts/risk_assistant.png)
-
----
-
-## 🔥 Correlation Heatmap
-
-![Heatmap](outputs/charts/correlation_heatmap.png)
-
----
-
-## 🧠 Feature Importance Analytics
-
-![Feature Importance](outputs/charts/feature_importance.png)
-
----
-
-## 📊 Advanced Analysis
-
-![Analysis](outputs/charts/analysis.pmng)
-
-...
-
 # 🔥 Advanced Features
 
 ## Smart Monitoring
@@ -386,38 +285,6 @@ This platform can be used for:
 
 # 👨‍💻 Author
 
-## Sujal  kumar Shaw
+## KAMUJU SAI SURYA VENKAT
+Aspiring Software Engineer
 
-AI & Data Science Enthusiast
-
----
-
-# ⭐ Support
-
-If you like this project:
-
-* Star the repository
-* Share the project
-* Fork the repository
-* Contribute improvements
-
----
-
-# 📜 License
-
-This project is open-source and available for educational and portfolio purposes.
-
----
-
-# 🚀 Final Note
-
-WeatherShield combines:
-
-* Artificial Intelligence
-* Climate Analytics
-* Real-Time Monitoring
-* Forecast Intelligence
-* Interactive Visualization
-* Enterprise Dashboard Design
-
-into one complete intelligent weather analytics system.
