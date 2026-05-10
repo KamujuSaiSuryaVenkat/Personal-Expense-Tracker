@@ -4,7 +4,7 @@
 
 An enterprise-grade weather intelligence and risk monitoring platform built using Python, Streamlit, Plotly, Pandas, and OpenWeather API.
 
-**Project Developer:** KAMUJU SAAI SURYA VENKAT
+Project Developer: KAMUJU SAI SURYA VENKAT
 
 This platform delivers:
 
